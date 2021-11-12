@@ -1,0 +1,32 @@
+.mat-toolbar-row {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    color: darkgray;
+    height: 120px;
+}
+
+.mat-button {
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.logo {
+    font-size: 26px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+.menu_links {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+@media screen and (max-width: 1000px) {
+    .mat-button {
+        font-size: 10px;
+    }
+}

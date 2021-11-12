@@ -1,0 +1,36 @@
+#banner_home {
+    
+    margin: 0px auto;
+}
+
+#banner_home img {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.divisor {
+    background-color: red;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+.imagem_destaque {
+    background-color: black;
+    margin: 0px;
+}
+
+.imagem_destaque img {
+    padding: 20px;
+}
+
+.imagem_galeria {
+    background-color: black;
+    margin: 0px;
+}
+
+.imagem_galeria img {
+    padding: 20px;
+    height: 150px;
+}
