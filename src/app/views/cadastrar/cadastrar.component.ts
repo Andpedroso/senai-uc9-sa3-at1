@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { NgForm } from '@angular/forms';
+import { User } from 'src/app/models/user';
 
 @Component({
   selector: 'app-cadastrar',

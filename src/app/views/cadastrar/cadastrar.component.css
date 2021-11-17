@@ -1,0 +1,17 @@
+.formulario {
+    display: flex;
+
+    padding: 50px;
+    background-color: rgb(59, 59, 59);
+    color: white;
+    height: 100%;
+}
+
+.inputs {
+    width: 500px;
+}
+
+.logo2 {
+    margin: 50px;
+    height: 100px;
+}
